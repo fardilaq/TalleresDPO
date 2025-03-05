@@ -1,0 +1,13 @@
+tipo:Extra:22000:200.0
+tipo:Corriente:15500:500.0
+tipo:Gas:15000:300.0
+tipo:Diesel:10000:200.0
+surtidor:Andrés:Extra:0.0:Corriente:0.0:Gas:0.0:Diesel:0.0
+surtidor:Daniel:Extra:0.0:Corriente:0.0:Gas:0.0:Diesel:0.0
+surtidor:Felipe:Extra:0.0:Corriente:0.0:Gas:0.0:Diesel:0.0
+surtidor:Daniel:Extra:0.0:Corriente:0.0:Gas:0.0:Diesel:0.0
+empleado:Camilo:0
+empleado:Felipe:0
+empleado:Gabriela:0
+empleado:Daniel:0
+empleado:Andrés:0
